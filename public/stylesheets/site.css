@@ -1,0 +1,18 @@
+#main h2,
+#mainh3 {
+  max-width: 680px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.copy-right {
+  padding: 15px 0px;
+}
+
+footer {
+  padding: 15px 0px;
+}
+
+footer p a {
+  margin: 0px 10px;
+}

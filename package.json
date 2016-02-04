@@ -1,0 +1,27 @@
+{
+  "name": "sidaudhi.github.io",
+  "version": "1.0.0",
+  "description": "Plugins website for sidaudhi",
+  "scripts": {
+    "start": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sidaudhi/sidaudhi.github.io.git"
+  },
+  "author": "sidaudhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidaudhi/sidaudhi.github.io/issues"
+  },
+  "homepage": "https://github.com/sidaudhi/sidaudhi.github.io",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-concat-css": "^2.2.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-stylus": "^2.3.0",
+    "nib": "^1.1.0"
+  }
+}
